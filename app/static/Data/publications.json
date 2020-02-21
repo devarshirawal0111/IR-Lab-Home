@@ -1,0 +1,838 @@
+[
+    {
+        "Authors": [
+            "Parth Mehta",
+            " Prasenjit Majumder"
+        ],
+        "Title": " From Extractive to Abstractive Summarization: A Journey",
+        "Rest": " Springer 2019, ISBN 978-981-13-8933-7, pp  1-116",
+        "URL": "http://ceur-ws.org/Vol-2517/T1-1.pdf"
+    },
+    {
+        "Authors": [
+            "Paheli Bhattacharya",
+            " Kripabandhu Ghosh",
+            " Saptarshi Ghosh",
+            " Arindam Pal",
+            " Parth Mehta",
+            " Arnab Bhattacharya",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Overview of the FIRE 2019 AILA Track: Artificial Intelligence for Legal Assistance",
+        "Rest": " FIRE (Working Notes) 2019: 1-12",
+        "URL": "https://doi.org/10.1145/3368567.3368587"
+    },
+    {
+        "Authors": [
+            "Paheli Bhattacharya",
+            " Kripabandhu Ghosh",
+            " Saptarshi Ghosh",
+            " Arindam Pal",
+            " Parth Mehta",
+            " Arnab Bhattacharya",
+            " Prasenjit Majumder"
+        ],
+        "Title": " FIRE 2019 AILA Track: Artificial Intelligence for Legal Assistance",
+        "Rest": " FIRE 2019: 4-6",
+        "URL": "https://doi.org/10.1145/3368567.3368584"
+    },
+    {
+        "Authors": [
+            "Thomas Mandl",
+            " Sandip Modha",
+            " Prasenjit Majumder",
+            " Daksh Patel",
+            " Mohana Dave",
+            " Chintak Mandalia",
+            " Aditya Patel"
+        ],
+        "Title": " Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages",
+        "Rest": " FIRE 2019: 14-17",
+        "URL": "http://ceur-ws.org/Vol-2517/T3-1.pdf"
+    },
+    {
+        "Authors": [
+            "Sandip Modha",
+            " Thomas Mandl",
+            " Prasenjit Majumder",
+            " Daksh Patel"
+        ],
+        "Title": " Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages",
+        "Rest": " FIRE (Working Notes) 2019: 167-190",
+        "URL": "https://doi.org/10.18653/v1/s19-2103"
+    },
+    {
+        "Authors": [
+            "Sandip Modha",
+            " Prasenjit Majumder",
+            " Daksh Patel"
+        ],
+        "Title": " DA-LD-Hildesheim at SemEval-2019 Task 6: Tracking Offensive Content with Deep Learning using Shallow Representation",
+        "Rest": " SemEval@NAACL-HLT 2019: 577-581",
+        "URL": "https://dblp.org/db/conf/fire/fire2019.html"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Surupendu Gangopadhyay",
+            " Parth Mehta"
+        ],
+        "Title": " FIRE '19: Forum for Information Retrieval Evaluation, Kolkata, India, December, 2019",
+        "Rest": " ACM 2019, ISBN 978-1-4503-7750-8 [contents]",
+        "URL": "https://dblp.org/db/conf/fire/fire2019w.html"
+    },
+    {
+        "Authors": [
+            "Parth Mehta",
+            " Paolo Rosso",
+            " Prasenjit Majumder",
+            " Mandar Mitra"
+        ],
+        "Title": " Working Notes of FIRE 2019 - Forum for Information Retrieval Evaluation, Kolkata, India, December 12-15, 2019",
+        "Rest": " CEUR Workshop Proceedings 2517, CEUR-WS org 2019 [contents]",
+        "URL": "http://arxiv.org/abs/1904.08770"
+    },
+    {
+        "Authors": [
+            "Sandip Modha",
+            " Prasenjit Majumder"
+        ],
+        "Title": " An Empirical Evaluation of Text Representation Schemes on Multilingual Social Web to Filter the Textual Aggression",
+        "Rest": " CoRR abs/1904 08770 (2019)",
+        "URL": "https://doi.org/10.1016/j.ipm.2017.11.002"
+    },
+    {
+        "Authors": [
+            "Parth Mehta",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Effective aggregation of various summarization techniques",
+        "Rest": " Inf  Process  Manage  54(2): 145-158 (2018)",
+        "URL": "https://www.aclweb.org/anthology/W18-4423/"
+    },
+    {
+        "Authors": [
+            "Sandip Modha",
+            " Prasenjit Majumder",
+            " Thomas Mandl"
+        ],
+        "Title": " Filtering Aggression from the Multilingual Social Media Feed",
+        "Rest": " TRAC@COLING 2018 2018: 199-207",
+        "URL": "https://doi.org/10.1007/978-3-319-76941-7_77"
+    },
+    {
+        "Authors": [
+            "Parth Mehta",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Content Based Weighted Consensus Summarization",
+        "Rest": " ECIR 2018: 787-793",
+        "URL": "https://dblp.org/db/conf/fire/fire2017w.html"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Parth Mehta",
+            " Jainisha Sankhavara"
+        ],
+        "Title": " Working notes of FIRE 2017 - Forum for Information Retrieval Evaluation, Bangalore, India, December 8-10, 2017",
+        "Rest": " CEUR Workshop Proceedings 2036, CEUR-WS org 2018 [contents]",
+        "URL": "https://dblp.org/db/conf/fire/fire2018w.html"
+    },
+    {
+        "Authors": [
+            "Parth Mehta",
+            " Paolo Rosso",
+            " Prasenjit Majumder",
+            " Mandar Mitra"
+        ],
+        "Title": " Working Notes of FIRE 2018 - Forum for Information Retrieval Evaluation, Gandhinagar, India, December 6-9, 2018",
+        "Rest": " CEUR Workshop Proceedings 2266, CEUR-WS org 2018 [contents]",
+        "URL": "https://dblp.org/db/conf/fire/fire2016ws.html"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Parth Mehta",
+            " Jainisha Sankhavara"
+        ],
+        "Title": " Text Processing - FIRE 2016 International Workshop, Kolkata, India, December 7-10, 2016, Revised Selected Papers",
+        "Rest": " Lecture Notes in Computer Science 10478, Springer 2018, ISBN 978-3-319-73605-1 [contents]",
+        "URL": "https://dblp.org/db/conf/fire/fire2018.html"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Jainisha Sankhavara",
+            " Parth Mehta"
+        ],
+        "Title": " Proceedings of the 10th annual meeting of the Forum for Information Retrieval Evaluation, FIRE 2018, Gandhinagar, India, December 06-09, 2018",
+        "Rest": " ACM 2018, ISBN 978-1-4503-6208-5 [contents]",
+        "URL": "http://arxiv.org/abs/1802.00946"
+    },
+    {
+        "Authors": [
+            "Parth Mehta",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Content based Weighted Consensus Summarization",
+        "Rest": " CoRR abs/1802 00946 (2018)",
+        "URL": "http://arxiv.org/abs/1802.04675"
+    },
+    {
+        "Authors": [
+            "Parth Mehta",
+            " Gaurav Arora",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Attention based Sentence Extraction from Scientific Articles using Pseudo-Labeled data",
+        "Rest": " CoRR abs/1802 04675 (2018)",
+        "URL": "http://arxiv.org/abs/1809.02343"
+    },
+    {
+        "Authors": [
+            "Parth Mehta",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Exploiting local and global performance of candidate systems for aggregation of summarization techniques",
+        "Rest": " CoRR abs/1809 02343 (2018)",
+        "URL": "http://ceur-ws.org/Vol-1832/SMERP-2017-DC-DAIICT-IR-LAB-Retrieval.pdf"
+    },
+    {
+        "Authors": [
+            "Rishab Singla",
+            " Sandip Modha",
+            " Prasenjit Majumder",
+            " Chintak Mandalia"
+        ],
+        "Title": " Information Extraction from Microblog for Disaster Related Event",
+        "Rest": " SMERP@ECIR 2017: 85-92",
+        "URL": "http://ceur-ws.org/Vol-1832/SMERP-2017-DC-DAIICT-IR-LAB-Summarization.pdf"
+    },
+    {
+        "Authors": [
+            "Rishab Singla",
+            " Sandip Modha",
+            " Prasenjit Majumder",
+            " Chintak Mandalia"
+        ],
+        "Title": " Summarizing Disaster Related Event from Microblog",
+        "Rest": " SMERP@ECIR 2017: 109-115",
+        "URL": "http://ceur-ws.org/Vol-2036/T6-2.pdf"
+    },
+    {
+        "Authors": [
+            "Jainisha Sankhavara",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Biomedical Information Retrieval",
+        "Rest": " FIRE (Working Notes) 2017: 154-157",
+        "URL": "https://dblp.org/db/conf/fire/fire2017.html"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Jainisha Sankhavara",
+            " Parth Mehta"
+        ],
+        "Title": " Proceedings of the 9th annual meeting of the Forum for Information Retrieval Evaluation, FIRE 2017, Bangalore, India, December 8-10, 2017",
+        "Rest": " ACM 2017, ISBN 978-1-4503-6382-2 [contents]",
+        "URL": "http://arxiv.org/abs/1710.09085"
+    },
+    {
+        "Authors": [
+            "Sounak Banerjee",
+            " Prasenjit Majumder",
+            " Mandar Mitra"
+        ],
+        "Title": " Re-evaluating the need for Modelling Term-Dependence in Text Classification Problems",
+        "Rest": " CoRR abs/1710 09085 (2017)",
+        "URL": "https://doi.org/10.1016/j.ipm.2016.03.006"
+    },
+    {
+        "Authors": [
+            "Kripabandhu Ghosh",
+            " Anirban Chakraborty",
+            " Swapan Kumar Parui",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Improving Information Retrieval Performance on OCRed Text in the Absence of Clean Text Ground Truth",
+        "Rest": " Inf  Process  Manage  52(5): 873-884 (2016)",
+        "URL": "https://doi.org/10.1080/09296174.2015.1071151"
+    },
+    {
+        "Authors": [
+            "Parth Mehta",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Large Scale Quantitative Analysis of three Indo-Aryan Languages",
+        "Rest": " Journal of Quantitative Linguistics 23(1): 109-132 (2016)",
+        "URL": "https://doi.org/10.1007/978-3-319-48051-0_22"
+    },
+    {
+        "Authors": [
+            "Harsh Trivedi",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Noise Correction in Pairwise Document Preferences for Learning to Rank",
+        "Rest": " AIRS 2016: 295-301",
+        "URL": "http://ceur-ws.org/Vol-1609/16090890.pdf"
+    },
+    {
+        "Authors": [
+            "Yashwant Keswani",
+            " Harsh Trivedi",
+            " Parth Mehta",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Author Masking through Translation",
+        "Rest": " CLEF (Working Notes) 2016: 890-894",
+        "URL": "https://doi.org/10.18653/v1/k16-2017"
+    },
+    {
+        "Authors": [
+            "Devanshu Jain",
+            " Prasenjit Majumder"
+        ],
+        "Title": " DA-IICT Submission for PDTB-styled Discourse Parser",
+        "Rest": " CoNLL Shared Task 2016: 122-128",
+        "URL": "http://ceur-ws.org/Vol-1737/T2-7.pdf"
+    },
+    {
+        "Authors": [
+            "Sandip Modha",
+            " Chintak Mandalia",
+            " Krati Agrawal",
+            " Deepali Verma",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Real Time Information Extraction from Microblog",
+        "Rest": " FIRE (Working Notes) 2016: 79-80",
+        "URL": "http://trec.nist.gov/pubs/trec25/papers/IRLAB_DA-IICT-RT.pdf"
+    },
+    {
+        "Authors": [
+            "Sandip Modha",
+            " Krati Agrawal",
+            " Deepali Verma",
+            " Prasenjit Majumder",
+            " Chintak Mandalia"
+        ],
+        "Title": " DAIICT at TREC RTS 2016: Live Push Notification and Email Digest",
+        "Rest": " TREC 2016",
+        "URL": "http://trec.nist.gov/pubs/trec25/papers/DA_IICT-CL.pdf"
+    },
+    {
+        "Authors": [
+            "Jainisha Sankhavara",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Team DA IICT at Clinical Decision Support Track in TREC 2016: Topic Modeling for Query Expansion",
+        "Rest": " TREC 2016",
+        "URL": "https://dblp.org/db/conf/fire/fire2015w.html"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Madhulika Agrawal",
+            " Parth Mehta"
+        ],
+        "Title": " Post Proceedings of the Workshops at the 7th Forum for Information Retrieval Evaluation, Gandhinagar, India, December 4-6, 2015",
+        "Rest": " CEUR Workshop Proceedings 1587, CEUR-WS org 2016 [contents]",
+        "URL": "https://dblp.org/db/conf/fire/fire2016.html"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Jainisha Sankhavara",
+            " Parth Mehta"
+        ],
+        "Title": " Proceedings of the 8th annual meeting of the Forum on Information Retrieval Evaluation, FIRE 2016, Kolkata, India, December 8-10, 2016",
+        "Rest": " ACM 2016, ISBN 978-1-4503-4838-6 [contents]",
+        "URL": "https://dblp.org/db/conf/fire/fire2016w.html"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Parth Mehta",
+            " Jainisha Sankhavara",
+            " Kripabandhu Ghosh"
+        ],
+        "Title": " Working notes of FIRE 2016 - Forum for Information Retrieval Evaluation, Kolkata, India, December 7-10, 2016",
+        "Rest": " CEUR Workshop Proceedings 1737, CEUR-WS org 2016 [contents]",
+        "URL": "https://doi.org/10.1016/j.ipm.2014.12.002"
+    },
+    {
+        "Authors": [
+            "Kripabandhu Ghosh",
+            " Swapan K. Parui",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Learning combination weights in data fusion using Genetic Algorithms",
+        "Rest": " Inf  Process  Manage  51(3): 306-328 (2015)",
+        "URL": "https://doi.org/10.1145/2629574"
+    },
+    {
+        "Authors": [
+            "Nitin Ramrakhiyani",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Approaches to Temporal Expression Recognition in Hindi",
+        "Rest": " ACM Trans  Asian & Low-Resource Lang  Inf  Process  14(1): 2:1-2:22 (2015)",
+        "URL": "https://doi.org/10.1007/978-3-319-26832-3_59"
+    },
+    {
+        "Authors": [
+            "Harsh Trivedi",
+            " Aanal Patel",
+            " Prasenjit Majumder"
+        ],
+        "Title": " A New Approach to Syllabification of Words in Gujarati",
+        "Rest": " MIKE 2015: 631-639",
+        "URL": "https://dblp.org/db/conf/fire/fire2015.html"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Madhulika Agrawal",
+            " Parth Mehta"
+        ],
+        "Title": " Proceedings of the 7th Forum for Information Retrieval Evaluation, FIRE 2015, Gandhinagar, India, December 4-6, 2015",
+        "Rest": " ACM 2015, ISBN 978-1-4503-4004-5 [contents]",
+        "URL": "http://arxiv.org/abs/1505.01606"
+    },
+    {
+        "Authors": [
+            "Harsh Thakkar",
+            " Ganesh Iyer",
+            " Prasenjit Majumder"
+        ],
+        "Title": " A comparative study of approaches in user-centered health information retrieval",
+        "Rest": " CoRR abs/1505 01606 (2015)",
+        "URL": "http://ceur-ws.org/Vol-1180/CLEF2014wn-eHealth-ThakkarEt2014.pdf"
+    },
+    {
+        "Authors": [
+            "Harsh Thakkar",
+            " Ganesh Iyer",
+            " Kesha Shah",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Team IRLabDAIICT at ShARe/CLEF eHealth 2014 Task 3: User-centered Information Retrieval System for Clinical Documents",
+        "Rest": " CLEF (Working Notes) 2014: 248-259",
+        "URL": "http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings11/pdf/NTCIR/Temporalia/05-NTCIR11-TEMPORALIA-ShahA.pdf"
+    },
+    {
+        "Authors": [
+            "Abhishek Shah",
+            " Dharak Shah",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Andd7 @ NTCIR-11 Temporal Information Access Task",
+        "Rest": " NTCIR 2014",
+        "URL": "http://trec.nist.gov/pubs/trec23/papers/pro-DA_IICT_clinical.pdf"
+    },
+    {
+        "Authors": [
+            "Jainisha Sankhavara",
+            " Fenny Thakrar",
+            " Prasenjit Majumder",
+            " Shamayeeta Sarkar"
+        ],
+        "Title": " Fusing manual and machine feedback in biomedical domain",
+        "Rest": " TREC 2014",
+        "URL": "https://dblp.org/db/conf/fire/fire2014.html"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Madhulika Agrawal",
+            " Parth Mehta"
+        ],
+        "Title": " Proceedings of the Forum for Information Retrieval Evaluation, FIRE 2014, Bangalore, India, December 5-7, 2014",
+        "Rest": " ACM 2014, ISBN 978-1-4503-3755-7 [contents]",
+        "URL": "https://doi.org/10.1145/2701336.2701636"
+    },
+    {
+        "Authors": [
+            "Rishiraj Saha Roy",
+            " Monojit Choudhury",
+            " Prasenjit Majumder",
+            " Komal Agarwal"
+        ],
+        "Title": " Overview of the FIRE 2013 Track on Transliterated Search",
+        "Rest": " FIRE 2013: 4:1-4:7",
+        "URL": "https://doi.org/10.1145/2701336.2701637"
+    },
+    {
+        "Authors": [
+            "Rashmi Sankepally",
+            " Harsha Kokel",
+            " Komal Agarwal",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Morpheme Extraction Task at FIRE 2012-2013",
+        "Rest": " FIRE 2013: 5:1-5:4",
+        "URL": "https://www.aclweb.org/anthology/I13-1155/"
+    },
+    {
+        "Authors": [
+            "Parth Mehta",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Optimum Parameter Selection for K",
+        "Rest": "L D  Based Authorship Attribution in Gujarati  IJCNLP 2013: 1102-1106",
+        "URL": "https://doi.org/10.1007/978-3-319-03844-5_72"
+    },
+    {
+        "Authors": [
+            "Nitin Ramrakhiyani",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Temporal Expression Recognition in Hindi",
+        "Rest": " MIKE 2013: 740-750",
+        "URL": "https://doi.org/10.1007/978-3-319-03844-5_74"
+    },
+    {
+        "Authors": [
+            "Vipul Garg",
+            " Nikit Saraf",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Named Entity Recognition for Gujarati: A CRF Based Approach",
+        "Rest": " MIKE 2013: 761-768",
+        "URL": "https://dblp.org/db/conf/fire/fire2011.html"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Pushpak Bhattacharyya",
+            " L. Venkata Subramaniam",
+            " Danish Contractor",
+            " Paolo Rosso"
+        ],
+        "Title": " Multilingual Information Access in South Asian Languages - Second International Workshop, FIRE 2010, Gandhinagar, India, February 19-21, 2010 and Third International Workshop, FIRE 2011, Bombay, India, December 2-4, 2011, Revised Selected Papers",
+        "Rest": " Lecture Notes in Computer Science 7536, Springer 2013, ISBN 978-3-642-40086-5 [contents]",
+        "URL": "https://dblp.org/db/conf/fire/fire2013.html"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Madhulika Agrawal",
+            " Parth Mehta"
+        ],
+        "Title": " Proceedings of the 5th 2013 Forum on Information Retrieval Evaluation, FIRE '13, New Delhi, India, December 4-6, 2013",
+        "Rest": " ACM 2013, ISBN 978-1-4503-2830-2 [contents]",
+        "URL": "http://arxiv.org/abs/1303.5929"
+    },
+    {
+        "Authors": [
+            "Sourish Dasgupta",
+            " Ankur Padia",
+            " Kushal Shah",
+            " Rupali KaPatel",
+            " Prasenjit Majumder"
+        ],
+        "Title": " DLOLIS-A: Description Logic based Text Ontology Learning",
+        "Rest": " CoRR abs/1303 5929 (2013)",
+        "URL": "https://doi.org/10.1504/IJWS.2012.052535"
+    },
+    {
+        "Authors": [
+            "Ayan Bandyopadhyay",
+            " Kripabandhu Ghosh",
+            " Prasenjit Majumder",
+            " Mandar Mitra"
+        ],
+        "Title": " Query expansion for microblog retrieval",
+        "Rest": " IJWS 1(4): 368-380 (2012)",
+        "URL": "http://ceur-ws.org/Vol-1178/CLEF2012wn-INEX-BandyopadhyayEt2012.pdf"
+    },
+    {
+        "Authors": [
+            "Ayan Bandyopadhyay",
+            " Sukomal Pal",
+            " Mandar Mitra",
+            " Prasenjit Majumder",
+            " Kripabandhu Ghosh"
+        ],
+        "Title": " Passage Retrieval for Tweet Contextualization at INEX 2012",
+        "Rest": " CLEF (Online Working Notes/Labs/Workshop) 2012",
+        "URL": "http://ceur-ws.org/Vol-1177/CLEF2011wn-QA4MRE-AroraEt2011.pdf"
+    },
+    {
+        "Authors": [
+            "Gaurav Arora",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Cosine Similarity as Machine Reading Technique",
+        "Rest": " CLEF (Notebook Papers/Labs/Workshop) 2011",
+        "URL": "http://ceur-ws.org/Vol-1177/CLEF2011wn-PAN-RaoEt2011.pdf"
+    },
+    {
+        "Authors": [
+            "Sameer Rao",
+            " Parth Gupta",
+            " Khushboo Singhal",
+            " Prasenjit Majumder"
+        ],
+        "Title": " External & Intrinsic Plagiarism Detection: VSM & Discourse Markers based Approach - Notebook for PAN at CLEF 2011",
+        "Rest": " CLEF (Notebook Papers/Labs/Workshop) 2011",
+        "URL": "https://doi.org/10.1007/978-3-642-40087-2_1"
+    },
+    {
+        "Authors": [
+            "Sauparna Palchowdhury",
+            " Prasenjit Majumder",
+            " Dipasree Pal",
+            " Ayan Bandyopadhyay",
+            " Mandar Mitra"
+        ],
+        "Title": " Overview of FIRE 2011",
+        "Rest": " FIRE 2011: 1-12",
+        "URL": "https://doi.org/10.1007/978-3-642-40087-2_16"
+    },
+    {
+        "Authors": [
+            "Khushboo Singhal",
+            " Gaurav Arora",
+            " Smita Kumari",
+            " Prasenjit Majumder"
+        ],
+        "Title": " SMS Normalization for FAQ Retrieval",
+        "Rest": " FIRE 2011: 163-174",
+        "URL": "https://doi.org/10.1007/978-3-642-40087-2_19"
+    },
+    {
+        "Authors": [
+            "Utpal Garain",
+            " Jiaul H. Paik",
+            " Tamaltaru Pal",
+            " Prasenjit Majumder",
+            " David S. Doermann",
+            " Douglas W. Oard"
+        ],
+        "Title": " Overview of the FIRE 2011 RISOT Task",
+        "Rest": " FIRE 2011: 197-204",
+        "URL": "https://doi.org/10.1007/978-3-642-40087-2_23"
+    },
+    {
+        "Authors": [
+            "Sauparna Palchowdhury",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Simple Transliteration for CLIR",
+        "Rest": " FIRE 2011: 241-251",
+        "URL": "http://trec.nist.gov/pubs/trec20/papers/IRSI.microblog.update.pdf"
+    },
+    {
+        "Authors": [
+            "Ayan Bandyopadhyay",
+            " Mandar Mitra",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Query Expansion for Microblog Retrieval",
+        "Rest": " TREC 2011",
+        "URL": "http://trec.nist.gov/pubs/trec20/papers/IRISCAL.legal.update.pdf"
+    },
+    {
+        "Authors": [
+            "Kripabandhu Ghosh",
+            " Swapan K. Parui",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Cluster-Based Relevance Feedback: Legal Track 2011",
+        "Rest": " TREC 2011",
+        "URL": "https://doi.org/10.1145/1838745.1838746"
+    },
+    {
+        "Authors": [
+            "Donna Harman",
+            " Noriko Kando",
+            " Prasenjit Majumder",
+            " Mandar Mitra",
+            " Carol Peters"
+        ],
+        "Title": " Introduction to the Special Issue on Indian Language Information Retrieval Part I",
+        "Rest": " ACM Trans  Asian Lang  Inf  Process  9(3): 9:1-9:3 (2010)",
+        "URL": "https://doi.org/10.1145/1838745.1838747"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Dipasree Pal",
+            " Ayan Bandyopadhyay",
+            " Samaresh Maiti",
+            " Sukomal Pal",
+            " Deboshree Modak",
+            " Sucharita Sanyal"
+        ],
+        "Title": " The FIRE 2008 Evaluation Exercise",
+        "Rest": " ACM Trans  Asian Lang  Inf  Process  9(3): 10:1-10:24 (2010)",
+        "URL": "http://ceur-ws.org/Vol-1176/CLEF2010wn-PAN-GuptaEt2010.pdf"
+    },
+    {
+        "Authors": [
+            "Parth Gupta",
+            " Sameer Rao",
+            " Prasenjit Majumder"
+        ],
+        "Title": " External Plagiarism Detection: N-Gram Approach Using Named Entity Recognizer - Lab Report for PAN at CLEF 2010",
+        "Rest": " CLEF (Notebook Papers/LABs/Workshops) 2010",
+        "URL": "http://ceur-ws.org/Vol-1176/CLEF2010wn-MLQA10-SabnaniEt2010.pdf"
+    },
+    {
+        "Authors": [
+            "Hitesh Sabnani",
+            " Prasenjit Majumder"
+        ],
+        "Title": " Question Answering System: Retrieving Relevant Passages",
+        "Rest": " CLEF (Notebook Papers/LABs/Workshops) 2010",
+        "URL": "https://doi.org/10.1007/978-3-642-40087-2_24"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Dipasree Pal",
+            " Ayan Bandyopadhyay",
+            " Mandar Mitra"
+        ],
+        "Title": " Overview of FIRE 2010",
+        "Rest": " FIRE 2010: 252-257",
+        "URL": "http://trec.nist.gov/pubs/trec19/papers/indian-stat-institute.LEGAL.pdf"
+    },
+    {
+        "Authors": [
+            "Kripabandhu Ghosh",
+            " Swapan K. Parui",
+            " Prasenjit Majumder",
+            " Ayan Bandyopadhyay",
+            " S. John J. Raja Singh"
+        ],
+        "Title": " Indian Statistical Institute, Kolkata at TREC 2010: Legal Interactive",
+        "Rest": " TREC 2010",
+        "URL": "https://doi.org/10.1145/1460027.1460044"
+    },
+    {
+        "Authors": [
+            "Dipasree Pal",
+            " Prasenjit Majumder",
+            " Mandar Mitra",
+            " Sukanya Mitra",
+            " Aparajita Sen"
+        ],
+        "Title": " Issues in searching for Indian language web content",
+        "Rest": " CIKM-iNEWS 2008: 93-96",
+        "URL": "http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings7/pdf/NTCIR7/03-NTCIR7-INV-MajumderP.pdf"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra"
+        ],
+        "Title": " What happened at FIRE 2008? NTCIR 2008",
+        "Rest": "",
+        "URL": "https://doi.org/10.1145/1390334.1390458"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Dipasree Pal",
+            " Ayan Bandyopadhyay",
+            " Samaresh Maiti",
+            " Sukanya Mitra",
+            " Aparajita Sen",
+            " Sukomal Pal"
+        ],
+        "Title": " Text collections for FIRE",
+        "Rest": " SIGIR 2008: 699-700",
+        "URL": "https://doi.org/10.1145/1281485.1281489"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Swapan K. Parui",
+            " Gobinda Kole",
+            " Pabitra Mitra",
+            " Kalyankumar Datta"
+        ],
+        "Title": " YASS: Yet another suffix stripper",
+        "Rest": " ACM Trans  Inf  Syst  25(4): 18 (2007)",
+        "URL": "https://doi.org/10.1007/978-3-540-85760-0_6"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Dipasree Pal"
+        ],
+        "Title": " Bulgarian, Hungarian and Czech Stemming Using YASS",
+        "Rest": " CLEF 2007: 49-56",
+        "URL": "http://ceur-ws.org/Vol-1173/CLEF2007wn-adhoc-MajumderEt2007.pdf"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Dipasree Pal"
+        ],
+        "Title": " Hungarian and Czech Stemming using YASS",
+        "Rest": " CLEF (Working Notes) 2007",
+        "URL": "http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings6/EVIA/19.pdf"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Swapan K. Parui",
+            " Pushpak Bhattacharyya"
+        ],
+        "Title": " Initiative for Indian Language IR Evaluation",
+        "Rest": " EVIA@NTCIR 2007",
+        "URL": "https://doi.org/10.1007/978-3-540-74999-8_14"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Kalyankumar Datta"
+        ],
+        "Title": " Statistical vs",
+        "Rest": " Rule-Based Stemming for Monolingual French Retrieval  CLEF 2006: 107-110",
+        "URL": "http://ceur-ws.org/Vol-1172/CLEF2006wn-adhoc-MajumderEt2006.pdf"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Kalyankumar Datta"
+        ],
+        "Title": " Statistical vs",
+        "Rest": " Rule-Based Stemming for Monolingual French Retrieval  CLEF (Working Notes) 2006",
+        "URL": "https://dblp.org/db/conf/iwridl/iwridl2006.html"
+    },
+    {
+        "Authors": [
+            "Prasenjit Majumder",
+            " Mandar Mitra",
+            " Swapan K. Parui"
+        ],
+        "Title": " Proceedings of the International Workshop on Research Issues in Digital Libraries, IWRIDL 2006, in association with ACM SIGIR, Kolkata, India, December 12 - 15, 2006",
+        "Rest": " ACM International Conference Proceeding Series, ACM 2006, ISBN 1-59593-608-4 [contents]"
+    }
+]
